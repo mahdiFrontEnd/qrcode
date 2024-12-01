@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/automation/static/js/main.34686bcf.js",
-    "index.html": "/automation/index.html",
-    "main.34686bcf.js.map": "/automation/static/js/main.34686bcf.js.map"
+    "main.js": "/qrcode/static/js/main.34686bcf.js",
+    "index.html": "/qrcode/index.html",
+    "main.34686bcf.js.map": "/qrcode/static/js/main.34686bcf.js.map"
   },
   "entrypoints": [
     "static/js/main.34686bcf.js"
