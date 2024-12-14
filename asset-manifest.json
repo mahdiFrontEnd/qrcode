@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/qrcode/static/js/main.0c7f0b81.js",
+    "main.js": "/qrcode/static/js/main.28b183d8.js",
     "index.html": "/qrcode/index.html",
-    "main.0c7f0b81.js.map": "/qrcode/static/js/main.0c7f0b81.js.map"
+    "main.28b183d8.js.map": "/qrcode/static/js/main.28b183d8.js.map"
   },
   "entrypoints": [
-    "static/js/main.0c7f0b81.js"
+    "static/js/main.28b183d8.js"
   ]
 }
