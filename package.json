@@ -1,5 +1,5 @@
 {
-  "homepage": "https://mahdiFrontEnd.github.io/automation",
+  "homepage": "https://mahdiFrontEnd.github.io/qrcode",
   "name": "qrcode_reader",
   "version": "0.1.0",
   "private": true,
@@ -14,17 +14,17 @@
     "qr-scanner": "^1.4.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-qr-reader": "^3.0.0-beta-1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "cross-env HTTPS=true SSL_CRT_FILE=./certs/cert.pem SSL_KEY_FILE=./certs/key.pem react-scripts start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": [
@@ -43,6 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
   }
-
 }

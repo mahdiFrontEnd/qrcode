@@ -48,7 +48,7 @@ const CameraComponent = () => {
                 <video ref={videoRef} autoPlay playsInline style={{width: "100%", maxHeight: "400px"}}/>
             )}
             <button onClick={handleClick}>Switch camera</button>
-
+sdrgresdgrgredsg
         </div>
     );
 };
