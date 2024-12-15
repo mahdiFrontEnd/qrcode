@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.4dfe1582.css","mappings":"AACA,YAII,qDAA0D,CAD1D,YAAa,CAFb,eAAgB,CAChB,UAGJ","sources":["assets/styel.css"],"sourcesContent":["\r\n.crookedBox {\r\n    overflow: hidden;\r\n    width: 100%;\r\n    height: 100vh;\r\n    background: linear-gradient(77deg, white, 50%, orange 50%);\r\n}\r\n"],"names":[],"sourceRoot":""}
